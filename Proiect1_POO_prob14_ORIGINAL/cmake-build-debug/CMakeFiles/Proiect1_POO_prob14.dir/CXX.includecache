@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/CLionProjects/Proiect1_POO_prob14/Clasa.cpp
+Clasa.h
+D:/CLionProjects/Proiect1_POO_prob14/Clasa.h
+
+D:/CLionProjects/Proiect1_POO_prob14/Clasa.h
+vector
+-
+iostream
+-
+Polinom.h
+D:/CLionProjects/Proiect1_POO_prob14/Polinom.h
+
+D:/CLionProjects/Proiect1_POO_prob14/Nod.h
+
+D:/CLionProjects/Proiect1_POO_prob14/Polinom.cpp
+cmath
+-
+iostream
+-
+fstream
+-
+Polinom.h
+D:/CLionProjects/Proiect1_POO_prob14/Polinom.h
+
+D:/CLionProjects/Proiect1_POO_prob14/Polinom.h
+Nod.h
+D:/CLionProjects/Proiect1_POO_prob14/Nod.h
+
+D:/CLionProjects/Proiect1_POO_prob14/main.cpp
+iostream
+-
+Polinom.h
+D:/CLionProjects/Proiect1_POO_prob14/Polinom.h
+Clasa.h
+D:/CLionProjects/Proiect1_POO_prob14/Clasa.h
+

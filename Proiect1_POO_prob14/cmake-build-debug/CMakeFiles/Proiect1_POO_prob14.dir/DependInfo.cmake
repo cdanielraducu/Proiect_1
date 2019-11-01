@@ -4,10 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/cdani/OneDrive/Desktop/Proiect1_POO_prob14/Clasa.cpp" "C:/Users/cdani/OneDrive/Desktop/Proiect1_POO_prob14/cmake-build-debug/CMakeFiles/Proiect1_POO_prob14.dir/Clasa.cpp.obj"
-  "C:/Users/cdani/OneDrive/Desktop/Proiect1_POO_prob14/Nod.cpp" "C:/Users/cdani/OneDrive/Desktop/Proiect1_POO_prob14/cmake-build-debug/CMakeFiles/Proiect1_POO_prob14.dir/Nod.cpp.obj"
-  "C:/Users/cdani/OneDrive/Desktop/Proiect1_POO_prob14/Polinom.cpp" "C:/Users/cdani/OneDrive/Desktop/Proiect1_POO_prob14/cmake-build-debug/CMakeFiles/Proiect1_POO_prob14.dir/Polinom.cpp.obj"
-  "C:/Users/cdani/OneDrive/Desktop/Proiect1_POO_prob14/main.cpp" "C:/Users/cdani/OneDrive/Desktop/Proiect1_POO_prob14/cmake-build-debug/CMakeFiles/Proiect1_POO_prob14.dir/main.cpp.obj"
+  "C:/Users/cdani/OneDrive/Desktop/Proiect_1/Proiect1_POO_prob14/Clasa.cpp" "C:/Users/cdani/OneDrive/Desktop/Proiect_1/Proiect1_POO_prob14/cmake-build-debug/CMakeFiles/Proiect1_POO_prob14.dir/Clasa.cpp.obj"
+  "C:/Users/cdani/OneDrive/Desktop/Proiect_1/Proiect1_POO_prob14/Nod.cpp" "C:/Users/cdani/OneDrive/Desktop/Proiect_1/Proiect1_POO_prob14/cmake-build-debug/CMakeFiles/Proiect1_POO_prob14.dir/Nod.cpp.obj"
+  "C:/Users/cdani/OneDrive/Desktop/Proiect_1/Proiect1_POO_prob14/Polinom.cpp" "C:/Users/cdani/OneDrive/Desktop/Proiect_1/Proiect1_POO_prob14/cmake-build-debug/CMakeFiles/Proiect1_POO_prob14.dir/Polinom.cpp.obj"
+  "C:/Users/cdani/OneDrive/Desktop/Proiect_1/Proiect1_POO_prob14/main.cpp" "C:/Users/cdani/OneDrive/Desktop/Proiect_1/Proiect1_POO_prob14/cmake-build-debug/CMakeFiles/Proiect1_POO_prob14.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

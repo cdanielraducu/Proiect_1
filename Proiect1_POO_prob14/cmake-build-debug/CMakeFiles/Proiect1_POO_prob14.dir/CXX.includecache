@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/cdani/OneDrive/Desktop/Proiect_1/Proiect1_POO_prob14/Clasa.cpp
+Clasa.h
+C:/Users/cdani/OneDrive/Desktop/Proiect_1/Proiect1_POO_prob14/Clasa.h
+
+C:/Users/cdani/OneDrive/Desktop/Proiect_1/Proiect1_POO_prob14/Clasa.h
+vector
+-
+iostream
+-
+Polinom.h
+C:/Users/cdani/OneDrive/Desktop/Proiect_1/Proiect1_POO_prob14/Polinom.h
+
+C:/Users/cdani/OneDrive/Desktop/Proiect_1/Proiect1_POO_prob14/Nod.cpp
+Nod.h
+C:/Users/cdani/OneDrive/Desktop/Proiect_1/Proiect1_POO_prob14/Nod.h
+
+C:/Users/cdani/OneDrive/Desktop/Proiect_1/Proiect1_POO_prob14/Nod.h
+
+C:/Users/cdani/OneDrive/Desktop/Proiect_1/Proiect1_POO_prob14/Polinom.cpp
+cmath
+-
+iostream
+-
+Polinom.h
+C:/Users/cdani/OneDrive/Desktop/Proiect_1/Proiect1_POO_prob14/Polinom.h
+
+C:/Users/cdani/OneDrive/Desktop/Proiect_1/Proiect1_POO_prob14/Polinom.h
+Nod.h
+C:/Users/cdani/OneDrive/Desktop/Proiect_1/Proiect1_POO_prob14/Nod.h
+
+C:/Users/cdani/OneDrive/Desktop/Proiect_1/Proiect1_POO_prob14/main.cpp
+iostream
+-
+Polinom.h
+C:/Users/cdani/OneDrive/Desktop/Proiect_1/Proiect1_POO_prob14/Polinom.h
+Clasa.h
+C:/Users/cdani/OneDrive/Desktop/Proiect_1/Proiect1_POO_prob14/Clasa.h
+

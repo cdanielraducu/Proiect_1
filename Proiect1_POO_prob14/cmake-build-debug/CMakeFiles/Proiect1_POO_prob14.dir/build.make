@@ -42,10 +42,10 @@ RM = "C:\Program Files\JetBrains\CLion 2019.2.4\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\cdani\OneDrive\Desktop\Proiect1_POO_prob14
+CMAKE_SOURCE_DIR = C:\Users\cdani\OneDrive\Desktop\Proiect_1\Proiect1_POO_prob14
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\cdani\OneDrive\Desktop\Proiect1_POO_prob14\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\cdani\OneDrive\Desktop\Proiect_1\Proiect1_POO_prob14\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Proiect1_POO_prob14.dir/depend.make
@@ -58,55 +58,55 @@ include CMakeFiles/Proiect1_POO_prob14.dir/flags.make
 
 CMakeFiles/Proiect1_POO_prob14.dir/main.cpp.obj: CMakeFiles/Proiect1_POO_prob14.dir/flags.make
 CMakeFiles/Proiect1_POO_prob14.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\cdani\OneDrive\Desktop\Proiect1_POO_prob14\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Proiect1_POO_prob14.dir/main.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Proiect1_POO_prob14.dir\main.cpp.obj -c C:\Users\cdani\OneDrive\Desktop\Proiect1_POO_prob14\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\cdani\OneDrive\Desktop\Proiect_1\Proiect1_POO_prob14\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Proiect1_POO_prob14.dir/main.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Proiect1_POO_prob14.dir\main.cpp.obj -c C:\Users\cdani\OneDrive\Desktop\Proiect_1\Proiect1_POO_prob14\main.cpp
 
 CMakeFiles/Proiect1_POO_prob14.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Proiect1_POO_prob14.dir/main.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\cdani\OneDrive\Desktop\Proiect1_POO_prob14\main.cpp > CMakeFiles\Proiect1_POO_prob14.dir\main.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\cdani\OneDrive\Desktop\Proiect_1\Proiect1_POO_prob14\main.cpp > CMakeFiles\Proiect1_POO_prob14.dir\main.cpp.i
 
 CMakeFiles/Proiect1_POO_prob14.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Proiect1_POO_prob14.dir/main.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\cdani\OneDrive\Desktop\Proiect1_POO_prob14\main.cpp -o CMakeFiles\Proiect1_POO_prob14.dir\main.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\cdani\OneDrive\Desktop\Proiect_1\Proiect1_POO_prob14\main.cpp -o CMakeFiles\Proiect1_POO_prob14.dir\main.cpp.s
 
 CMakeFiles/Proiect1_POO_prob14.dir/Nod.cpp.obj: CMakeFiles/Proiect1_POO_prob14.dir/flags.make
 CMakeFiles/Proiect1_POO_prob14.dir/Nod.cpp.obj: ../Nod.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\cdani\OneDrive\Desktop\Proiect1_POO_prob14\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Proiect1_POO_prob14.dir/Nod.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Proiect1_POO_prob14.dir\Nod.cpp.obj -c C:\Users\cdani\OneDrive\Desktop\Proiect1_POO_prob14\Nod.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\cdani\OneDrive\Desktop\Proiect_1\Proiect1_POO_prob14\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Proiect1_POO_prob14.dir/Nod.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Proiect1_POO_prob14.dir\Nod.cpp.obj -c C:\Users\cdani\OneDrive\Desktop\Proiect_1\Proiect1_POO_prob14\Nod.cpp
 
 CMakeFiles/Proiect1_POO_prob14.dir/Nod.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Proiect1_POO_prob14.dir/Nod.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\cdani\OneDrive\Desktop\Proiect1_POO_prob14\Nod.cpp > CMakeFiles\Proiect1_POO_prob14.dir\Nod.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\cdani\OneDrive\Desktop\Proiect_1\Proiect1_POO_prob14\Nod.cpp > CMakeFiles\Proiect1_POO_prob14.dir\Nod.cpp.i
 
 CMakeFiles/Proiect1_POO_prob14.dir/Nod.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Proiect1_POO_prob14.dir/Nod.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\cdani\OneDrive\Desktop\Proiect1_POO_prob14\Nod.cpp -o CMakeFiles\Proiect1_POO_prob14.dir\Nod.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\cdani\OneDrive\Desktop\Proiect_1\Proiect1_POO_prob14\Nod.cpp -o CMakeFiles\Proiect1_POO_prob14.dir\Nod.cpp.s
 
 CMakeFiles/Proiect1_POO_prob14.dir/Polinom.cpp.obj: CMakeFiles/Proiect1_POO_prob14.dir/flags.make
 CMakeFiles/Proiect1_POO_prob14.dir/Polinom.cpp.obj: ../Polinom.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\cdani\OneDrive\Desktop\Proiect1_POO_prob14\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Proiect1_POO_prob14.dir/Polinom.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Proiect1_POO_prob14.dir\Polinom.cpp.obj -c C:\Users\cdani\OneDrive\Desktop\Proiect1_POO_prob14\Polinom.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\cdani\OneDrive\Desktop\Proiect_1\Proiect1_POO_prob14\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Proiect1_POO_prob14.dir/Polinom.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Proiect1_POO_prob14.dir\Polinom.cpp.obj -c C:\Users\cdani\OneDrive\Desktop\Proiect_1\Proiect1_POO_prob14\Polinom.cpp
 
 CMakeFiles/Proiect1_POO_prob14.dir/Polinom.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Proiect1_POO_prob14.dir/Polinom.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\cdani\OneDrive\Desktop\Proiect1_POO_prob14\Polinom.cpp > CMakeFiles\Proiect1_POO_prob14.dir\Polinom.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\cdani\OneDrive\Desktop\Proiect_1\Proiect1_POO_prob14\Polinom.cpp > CMakeFiles\Proiect1_POO_prob14.dir\Polinom.cpp.i
 
 CMakeFiles/Proiect1_POO_prob14.dir/Polinom.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Proiect1_POO_prob14.dir/Polinom.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\cdani\OneDrive\Desktop\Proiect1_POO_prob14\Polinom.cpp -o CMakeFiles\Proiect1_POO_prob14.dir\Polinom.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\cdani\OneDrive\Desktop\Proiect_1\Proiect1_POO_prob14\Polinom.cpp -o CMakeFiles\Proiect1_POO_prob14.dir\Polinom.cpp.s
 
 CMakeFiles/Proiect1_POO_prob14.dir/Clasa.cpp.obj: CMakeFiles/Proiect1_POO_prob14.dir/flags.make
 CMakeFiles/Proiect1_POO_prob14.dir/Clasa.cpp.obj: ../Clasa.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\cdani\OneDrive\Desktop\Proiect1_POO_prob14\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Proiect1_POO_prob14.dir/Clasa.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Proiect1_POO_prob14.dir\Clasa.cpp.obj -c C:\Users\cdani\OneDrive\Desktop\Proiect1_POO_prob14\Clasa.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\cdani\OneDrive\Desktop\Proiect_1\Proiect1_POO_prob14\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Proiect1_POO_prob14.dir/Clasa.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Proiect1_POO_prob14.dir\Clasa.cpp.obj -c C:\Users\cdani\OneDrive\Desktop\Proiect_1\Proiect1_POO_prob14\Clasa.cpp
 
 CMakeFiles/Proiect1_POO_prob14.dir/Clasa.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Proiect1_POO_prob14.dir/Clasa.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\cdani\OneDrive\Desktop\Proiect1_POO_prob14\Clasa.cpp > CMakeFiles\Proiect1_POO_prob14.dir\Clasa.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\cdani\OneDrive\Desktop\Proiect_1\Proiect1_POO_prob14\Clasa.cpp > CMakeFiles\Proiect1_POO_prob14.dir\Clasa.cpp.i
 
 CMakeFiles/Proiect1_POO_prob14.dir/Clasa.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Proiect1_POO_prob14.dir/Clasa.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\cdani\OneDrive\Desktop\Proiect1_POO_prob14\Clasa.cpp -o CMakeFiles\Proiect1_POO_prob14.dir\Clasa.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\cdani\OneDrive\Desktop\Proiect_1\Proiect1_POO_prob14\Clasa.cpp -o CMakeFiles\Proiect1_POO_prob14.dir\Clasa.cpp.s
 
 # Object files for target Proiect1_POO_prob14
 Proiect1_POO_prob14_OBJECTS = \
@@ -126,7 +126,7 @@ Proiect1_POO_prob14.exe: CMakeFiles/Proiect1_POO_prob14.dir/build.make
 Proiect1_POO_prob14.exe: CMakeFiles/Proiect1_POO_prob14.dir/linklibs.rsp
 Proiect1_POO_prob14.exe: CMakeFiles/Proiect1_POO_prob14.dir/objects1.rsp
 Proiect1_POO_prob14.exe: CMakeFiles/Proiect1_POO_prob14.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\cdani\OneDrive\Desktop\Proiect1_POO_prob14\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable Proiect1_POO_prob14.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\cdani\OneDrive\Desktop\Proiect_1\Proiect1_POO_prob14\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable Proiect1_POO_prob14.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Proiect1_POO_prob14.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -139,6 +139,6 @@ CMakeFiles/Proiect1_POO_prob14.dir/clean:
 .PHONY : CMakeFiles/Proiect1_POO_prob14.dir/clean
 
 CMakeFiles/Proiect1_POO_prob14.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\cdani\OneDrive\Desktop\Proiect1_POO_prob14 C:\Users\cdani\OneDrive\Desktop\Proiect1_POO_prob14 C:\Users\cdani\OneDrive\Desktop\Proiect1_POO_prob14\cmake-build-debug C:\Users\cdani\OneDrive\Desktop\Proiect1_POO_prob14\cmake-build-debug C:\Users\cdani\OneDrive\Desktop\Proiect1_POO_prob14\cmake-build-debug\CMakeFiles\Proiect1_POO_prob14.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\cdani\OneDrive\Desktop\Proiect_1\Proiect1_POO_prob14 C:\Users\cdani\OneDrive\Desktop\Proiect_1\Proiect1_POO_prob14 C:\Users\cdani\OneDrive\Desktop\Proiect_1\Proiect1_POO_prob14\cmake-build-debug C:\Users\cdani\OneDrive\Desktop\Proiect_1\Proiect1_POO_prob14\cmake-build-debug C:\Users\cdani\OneDrive\Desktop\Proiect_1\Proiect1_POO_prob14\cmake-build-debug\CMakeFiles\Proiect1_POO_prob14.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/Proiect1_POO_prob14.dir/depend
 
